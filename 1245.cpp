@@ -1,16 +1,16 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
-int main()
-{
- int n, tam, counter, tmp;
- char c;
  /*
 
   Segundo dia de programação - 17/03/2018
 
   */
+int main()
+{
+ int n, tam, counter, tmp;
+ char c;
+
  while(cin >> n)
  {
   vector<int> vec_e(61);
